@@ -14,6 +14,7 @@
 <a href="https://kaggle.com/sajal_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sajal_17" height="30" width="40" /></a>
 <a href="https://instagram.com/sajalsrivastava17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajalsrivastava17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sajal srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajal srivastava" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sajal_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajal_17" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sajalsrivg0un" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sajalsrivg0un" height="30" width="40" /></a>
 </p>
 
